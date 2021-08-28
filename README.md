@@ -5,5 +5,5 @@ Responsive website built using HTML, JavaScript, and Bulma. The main purpose of 
 
 Here's a walkthrough of what the website looks like and its features.
 
-<img src='score_keeper_walkthrough.gif' title='Video Walkthrough' width='1000' alt='Video Walkthrough' />
+<img src='score_keeper_walkthrough.gif' title='Video Walkthrough' width='1500' alt='Video Walkthrough' />
 
